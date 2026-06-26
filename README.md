@@ -14,7 +14,6 @@ I've completed internships at **Instavise** and **Headlamp Health**, where I wor
 * 💻 Passionate about Backend Engineering, Full-Stack Development & Cloud
 * ☁️ Building with AWS Serverless technologies
 * 📱 Experience in Flutter application development
-* ⚙️ Interested in Automation, DevOps and Scalable Systems
 * 🌱 Currently looking for Software Engineer / Backend / Full-Stack opportunities
 
 ---
@@ -58,6 +57,8 @@ Maestro • GitHub Actions • BrowserStack • Android Studio • Xcode • CI/
 # 🚀 Featured Projects
 
 ## 🍽️ Grab A Bite
+
+https://github.com/GrabABitee
 
 ### Smart Café Ordering Platform
 
