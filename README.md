@@ -1,78 +1,156 @@
-# 👋 Hi, I'm Kartik  
-**Backend Developer | Automation Engineer | DevOps Enthusiast**
+# 👋 Hi, I'm Kartik Gupta
 
-🌱 Currently leading backend & integration development for the **GrabABite** project  
-🔧 Working on RESTful APIs, frontend integration & end-to-end system design  
-🚀 Passionate about automation, scalable systems, and cloud technologies  
+### Software Engineer | Backend Developer | Full-Stack Developer | Cloud Enthusiast
 
----
+I'm a recent Computer Science graduate specializing in AI & ML from **The NorthCap University**. I enjoy building scalable applications, designing REST APIs, exploring cloud technologies, and automating development workflows.
 
-## 🔥 Featured Project
-### 🍽️ GrabABite – Food Ordering Platform  
-**Role:** Project Lead | Backend & Integration  
-🔗 https://github.com/GrabABitee  
-
-- Designed and developed RESTful API architecture  
-- Managed backend workflows & database structures  
-- Integrated backend services with frontend modules  
-- Lead contributor responsible for feature planning and releases  
+I've completed internships at **Instavise** and **Headlamp Health**, where I worked across backend development, Flutter applications, AWS cloud services, CI/CD automation, and testing infrastructure.
 
 ---
 
-## 💼 Work Experience
+## 🚀 About Me
 
-### **Headlamp-Health | Intern**  
-**Bangalore | On-site | June – August 2025**
-
-- Built mobile & web automation flows using **Maestro Studio** for Android & iOS  
-- Developed CI/CD pipelines using **GitHub Actions** (automated APK/IPA builds)  
-- Collaborated with development & DevOps teams to streamline release processes  
-- Managed cloud-based device testing environments on BrowserStack  
-- Integrated automated test flows into CI with environment-based dynamic triggers  
-- Contributed to automation PoCs and scalable testing strategies  
+* 🎓 B.Tech in Computer Science Engineering (AI & ML)
+* 💻 Passionate about Backend Engineering, Full-Stack Development & Cloud
+* ☁️ Building with AWS Serverless technologies
+* 📱 Experience in Flutter application development
+* ⚙️ Interested in Automation, DevOps and Scalable Systems
+* 🌱 Currently looking for Software Engineer / Backend / Full-Stack opportunities
 
 ---
 
-## 🛠️ Technical Skills
+# 💼 Experience
 
-### **Programming Languages**
-- Java, Python  
+## 🚀 Software Development Intern — Instavise (Apr 2026 – Jun 2026)
 
-### **Web Technologies**
-- HTML, REST APIs  
+Worked on production features for an EdTech platform while learning an entirely new technology stack.
 
-### **Databases**
-- SQL, MongoDB  
+### Highlights
 
-### **Automation & Testing**
-- Mobile/Web test automation  
-- Maestro Studio  
-- Cloud device testing (BrowserStack, etc.)  
+* Built Teacher Dashboard features using **Flutter** & **Riverpod**
+* Developed REST API integrations
+* Created Serverless APIs using **AWS Lambda**
+* Designed backend workflows with **Amazon DynamoDB**
+* Implemented asynchronous notifications using **Amazon SQS**
+* Worked with **AWS**, **Replit**, **Kiro IDE**, **Git**, and **GitHub**
+* Collaborated with the engineering team on production-ready features
 
-### **DevOps & CI/CD**
-- GitHub Actions  
-- Android Studio, Xcode  
-- Automated APK/IPA build pipelines  
+**Tech Stack**
 
-### **Cloud Technologies**
-- AWS, cloud testing platforms  
-
-### **Machine Learning**
-- CNN / LSTM models  
-- Real-time prediction pipelines  
-- Google Teachable Machine  
-
-### **Tools**
-- Advanced Excel, Google Workspace  
-- Git, GitHub  
-- Gradio  
+Flutter • Riverpod • AWS Lambda • DynamoDB • Amazon SQS • REST APIs • Git • GitHub • Replit • Kiro
 
 ---
 
-## 📫 Contact
-📞 **Phone:** +91 8448324699  
-📧 **Email:** Kartikg20034@gmail.com  
+## ⚙️ Automation Engineering Intern — Headlamp Health (Jun 2025 – Aug 2025)
+
+* Built Android & iOS automation using Maestro Studio
+* Developed CI/CD pipelines using GitHub Actions
+* Automated APK & IPA build workflows
+* Worked with BrowserStack cloud device testing
+* Collaborated with DevOps teams to streamline releases
+
+**Tech Stack**
+
+Maestro • GitHub Actions • BrowserStack • Android Studio • Xcode • CI/CD
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my work or connect with me.*
+# 🚀 Featured Projects
+
+## 🍽️ Grab A Bite
+
+### Smart Café Ordering Platform
+
+A full-stack food ordering platform built using **Spring Boot** and **React**.
+
+### Features
+
+* JWT Authentication
+* REST APIs
+* Order Management
+* Menu Management
+* Recommendation Engine
+* Real-time Order Tracking
+
+**Tech Stack**
+
+Spring Boot • React • PostgreSQL • JWT • REST APIs • Git
+
+---
+
+## 🍱 Real-Time Food Recognition System
+
+CNN-based food recognition system capable of predicting Indian food items and estimating calories and nutrients.
+
+**Tech Stack**
+
+Python • CNN • Gradio • Google Teachable Machine
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* Python
+* Dart
+
+### Backend
+
+* Spring Boot
+* REST APIs
+* JWT Authentication
+
+### Mobile
+
+* Flutter
+* Riverpod
+
+### Cloud
+
+* AWS Lambda
+* DynamoDB
+* Amazon SQS
+* API Gateway
+
+### DevOps & Automation
+
+* GitHub Actions
+* CI/CD
+* Maestro Studio
+* BrowserStack
+
+### Databases
+
+* PostgreSQL
+* SQL
+* DynamoDB
+* Supabase
+
+### Tools
+
+* Git
+* GitHub
+* Replit
+* Kiro IDE
+* VS Code
+* Railway
+* Vercel
+
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [Kartikg20034@gmail.com](mailto:Kartikg20034@gmail.com)
+
+💼 **LinkedIn**
+https://linkedin.com/in/kartik-gupta-509502238
+
+🐙 **GitHub**
+https://github.com/kartikg20034
+
+---
+
+> *"I enjoy learning unfamiliar technologies, building scalable software, and turning ideas into production-ready applications."*
