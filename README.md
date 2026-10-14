@@ -55,6 +55,29 @@ Maestro • GitHub Actions • BrowserStack • Android Studio • Xcode • CI/
 ---
 
 # 🚀 Featured Projects
+## 🎫 TicketLens — Semantic Support Ticket Classification
+
+https://github.com/kartikg20034/TicketLens
+
+An NLP-based support ticket classification system that uses semantic embeddings to retrieve similar tickets and recommend categories.
+
+### Features
+* Semantic Retrieval: Uses BAAI/bge-base-en-v1.5 embeddings to find similar support tickets.
+* Category Recommendation: Recommends categories across five support-ticket categories.
+* Similarity Scoring: Retrieves similar ticket examples with cosine similarity scores.
+* Classification Rationale: Provides explanations to help users understand recommendations.
+* Baseline Comparison: Evaluates embedding-based classification against TF-IDF and Logistic Regression.
+* CLI Workflow: Accepts ticket descriptions and displays category recommendations and similar examples.
+  
+**Evaluation**
+
+Achieved 82.67% test accuracy using the top-1 embedding-based classifier on a held-out test set of 150 tickets from a dataset of 1,000 synthetic support tickets.
+
+**Tech Stack**
+
+Python · Sentence Transformers · BAAI/bge-base-en-v1.5 · NLP · Semantic Search · scikit-learn · TF-IDF · Logistic Regression
+
+---
 
 ## 🍽️ Grab A Bite
 
